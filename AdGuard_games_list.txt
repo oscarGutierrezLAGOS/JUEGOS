@@ -1,3 +1,4 @@
+0.0.0.0 crazygames.com
 0.0.0.0 pokijuegos.com
 0.0.0.0 juegosonline.cl
 0.0.0.0 cokitos.com
