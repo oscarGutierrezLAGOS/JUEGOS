@@ -1,5 +1,8 @@
 0.0.0.0 crazygames.com
+0.0.0.0 juegos.com
+0.0.0.0 juegosjuegos.ws
 0.0.0.0 pokijuegos.com
+0.0.0.0 minijuegos.com
 0.0.0.0 juegosonline.cl
 0.0.0.0 cokitos.com
 0.0.0.0 beinternetawesome.withgoogle.com
