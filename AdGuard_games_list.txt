@@ -4,6 +4,13 @@
 0.0.0.0 pokijuegos.com
 0.0.0.0 minijuegos.com
 0.0.0.0 juegosonline.cl
+0.0.0.0 store.epicgames.com
+0.0.0.0 juegos.games
+0.0.0.0 betmaster.com.mx
+0.0.0.0 genially.com
+0.0.0.0 plazasesamo.com
+0.0.0.0 isladejuegos.com
+0.0.0.0 juegosjuegos.ws
 0.0.0.0 cokitos.com
 0.0.0.0 beinternetawesome.withgoogle.com
 0.0.0.0 ludoteka.com
